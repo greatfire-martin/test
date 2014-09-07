@@ -35,7 +35,7 @@
             </td>
         </tr>    
         <tr>
-            <td><strong>蓝灯</strong><br/>（Lantern）以及自由微博和GreatFire.org官方中文论坛</td>
+            <td><strong>蓝灯/Lantern</strong><br/>（以及自由微博和GreatFire.org官方中文论坛）</td>
             <td>            
                 <a href="https://mirrors-static.lo.cal/Akamai/l/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://mirrors-static.lo.cal/DreamHost/lantern/index.html" target="_BLANK">长期有效 2</a>，            
