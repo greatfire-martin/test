@@ -1,5 +1,5 @@
 
-![CC-logo](https://github.com/gfsupport/test/raw/master/img/CC-logo.png)
+![CC-logo](https://github.com/greatfire/test/raw/master/img/CC-logo.png)
 # 欢迎使用GreatFire翻墙中心引导
 
 
@@ -8,7 +8,7 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 
 > [GreatFire翻墙中心](https://cc.greatfire.org/)
 
-## ![FB-logo](https://github.com/gfsupport/test/raw/master/img/FB-logo.png)下载自由浏览安卓版 
+## ![FB-logo](https://github.com/greatfire/test/raw/master/img/FB-logo.png)下载自由浏览安卓版 
 
 由于GreatFire翻墙中心现在被墙，为了前往翻墙中心，您必须先使用自由浏览。**自由浏览**是安卓平台的翻墙浏览器，自由浏览采用一系列代理手段让您可以访问被GFW屏蔽的网站，您无需任何配置，即装即用，打开输入任意网址即可访问，非常便捷和高效，而且**完全免费**。
 
@@ -16,7 +16,7 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 
 > 更多信息可访问:https://github.com/greatfire/wiki
 
->![FB-QR](https://github.com/gfsupport/test/raw/master/img/qr/FB-QR.png)
+>![FB-QR](https://github.com/greatfire/test/raw/master/img/FB-QR.png)
 
 
 ## 使用自由浏览访问Greatfire翻墙中心
@@ -28,4 +28,4 @@ Greatfire官网：https://greatfire.org/
 
 自由浏览官网：https://freebrowser.org
 
-![GF-logo](https://github.com/gfsupport/test/raw/master/img/GF-logo.png)
+![GF-logo](https://github.com/greatfire/test/raw/master/img/GF-logo.png)
