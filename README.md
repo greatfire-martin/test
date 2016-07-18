@@ -19,12 +19,12 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 >![FB-QR](https://github.com/greatfire/test/raw/master/img/FB-qr.png)
 
 
-## 使用自由浏览访问Greatfire翻墙中心
+## 使用自由浏览访问GreatFire翻墙中心
 
-在您的设备下载安装自由浏览后，您即可直接在浏览地址栏输入 https://cc.greatfire.org/ 访问Greatfire翻墙中心。
+在您的设备下载安装自由浏览后，您即可直接在浏览地址栏输入 https://cc.greatfire.org/ 访问GreatFire翻墙中心。
 
 ## 相关链接
-Greatfire官网：https://greatfire.org/
+GreatFire官网：https://greatfire.org/
 
 自由浏览官网：https://freebrowser.org
 
