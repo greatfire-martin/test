@@ -16,7 +16,7 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 
 > 更多信息可访问:https://github.com/greatfire/wiki
 
->![FB-QR](https://github.com/greatfire/test/raw/master/img/FB-QR.png)
+>![FB-QR](https://github.com/greatfire/test/raw/master/img/FB-qr.png)
 
 
 ## 使用自由浏览访问Greatfire翻墙中心
