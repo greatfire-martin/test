@@ -8,7 +8,7 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 
 > [GreatFire翻墙中心](https://cc.greatfire.org/)
 
-## ![FB-logo](https://github.com/greatfire/test/raw/master/img/FB-logo.png)下载自由浏览安卓版 
+## <img src="https://github.com/greatfire/test/raw/master/img/FB-logo.png" width = "80" align=middle />下载自由浏览安卓版 
 
 由于GreatFire翻墙中心现在被墙，为了前往翻墙中心，您必须先使用自由浏览。**自由浏览**是安卓平台的翻墙浏览器，自由浏览采用一系列代理手段让您可以访问被GFW屏蔽的网站，您无需任何配置，即装即用，打开输入任意网址即可访问，非常便捷和高效，而且**完全免费**。
 
@@ -22,6 +22,15 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 ## 使用自由浏览访问GreatFire翻墙中心
 
 在您的设备下载安装自由浏览后，您即可直接在浏览地址栏输入 https://cc.greatfire.org/ 访问GreatFire翻墙中心。
+
+## <img src="https://github.com/greatfire/test/raw/master/img/FBS-logo.png" width = "80" align=middle /> 更多的自由-自由有声
+
+GreatFire最新出品**自由有声**安卓版，您可以用它方便的下载**数百本PDF**和**有声书**，随时随地阅读和分享中国的禁书。
+
+> 您可以直接点击链接或者扫描下面的二维码下载最新版自由有声：[自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk)
+
+> ![FBS-qr](https://github.com/greatfire/test/raw/master/img/FBS-qr.png)
+
 
 ## 相关链接
 GreatFire官网：https://greatfire.org/
