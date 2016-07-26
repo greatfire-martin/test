@@ -1,5 +1,4 @@
-
-![CC-logo](https://github.com/greatfire/test/raw/master/img/CC-logo.png)
+![CC-logo](https://github.com/greatfire/x/raw/master/cc-logo.png)
 # 欢迎使用GreatFire翻墙中心WIKI
 
 ##什么是翻墙中心？
@@ -14,9 +13,10 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 
 ### 如何获取自由浏览？
 
-您可以直接点击链接或者扫描下面的二维码下载最新版自由浏览：[自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) [自由浏览x86版](https://github.com/greatfire/z/raw/master/FreeBrowser-x86.apk) 
+您可以直接点击链接或者扫描下面的二维码下载最新版自由浏览：[自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk) [自由浏览x86版](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk) 
 
-![FB-QR](https://github.com/greatfire/test/raw/master/img/FB-qr.png)
+![freebrowser-qr](https://github.com/greatfire/x/raw/master/freebrowser.apk.qr.png)
+![freebrowser-x86-qr](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk.qr.png)
 
 ### 使用自由浏览访问GreatFire翻墙中心
 
@@ -28,9 +28,9 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 
 GreatFire最新出品**自由有声**安卓版，您可以用它方便的下载**数百本PDF**和**有声书**，随时随地阅读和分享中国的禁书。
 
-您可以直接点击链接或者扫描下面的二维码下载最新版自由有声：[自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk)
+您可以直接点击链接或者扫描下面的二维码下载最新版自由有声：[自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk)
 
-![FBS-qr](https://github.com/greatfire/test/raw/master/img/FBS-qr.png)
+![freebooks-qr](https://github.com/greatfire/x/raw/master/freebooks.apk.qr.png)
 
 ###使用自由浏览或其他应用时遇到了问题？
 
@@ -49,4 +49,4 @@ GreatFire最新出品**自由有声**安卓版，您可以用它方便的下载*
 * [GreatFire 博客](https://zh.greatfire.org/news/blog) - 关于国内审查情况的新闻。
 * [泡泡](https://pao-pao.net/) - 未经审查的互联网信息。
 
-![GF-logo](https://github.com/greatfire/test/raw/master/img/GF-logo.png)
+![greatfire-logo](https://github.com/greatfire/x/raw/master/greatfire-logo.png)
