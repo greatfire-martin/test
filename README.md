@@ -13,10 +13,13 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 
 ### 如何获取自由浏览？
 
-您可以直接点击链接或者扫描下面的二维码下载最新版自由浏览：[自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk) [自由浏览x86版](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk) 
+您可以直接点击链接或者扫描下面的二维码下载最新版自由浏览：
 
-![freebrowser-qr](https://github.com/greatfire/x/raw/master/freebrowser.apk.qr.png)
-![freebrowser-x86-qr](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk.qr.png)
+| [自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk) | [自由浏览x86版](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk) * |
+| --- | --- |
+| [![自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk.qr.png)](https://github.com/greatfire/x/raw/master/freebrowser.apk) | [![自由浏览x86版](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk.qr.png)](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk) |
+
+* 自由浏览 x86 版主要用于一些使用 Intel 处理器的平板电脑，一般用户请使用非 x86 版。
 
 ### 使用自由浏览访问GreatFire翻墙中心
 
@@ -28,9 +31,11 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 
 GreatFire最新出品**自由有声**安卓版，您可以用它方便的下载**数百本PDF**和**有声书**，随时随地阅读和分享中国的禁书。
 
-您可以直接点击链接或者扫描下面的二维码下载最新版自由有声：[自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk)
+您可以直接点击链接或者扫描下面的二维码下载最新版自由有声：
 
-![freebooks-qr](https://github.com/greatfire/x/raw/master/freebooks.apk.qr.png)
+| [自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk) |
+| --- |
+| [![自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk.qr.png)](https://github.com/greatfire/x/raw/master/freebooks.apk) |
 
 ###使用自由浏览或其他应用时遇到了问题？
 
