@@ -19,7 +19,7 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 | --- | --- |
 | [![自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk.qr.png)](https://github.com/greatfire/x/raw/master/freebrowser.apk) | [![自由浏览x86版](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk.qr.png)](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk) |
 
-* 自由浏览 x86 版主要用于一些使用 Intel 处理器的平板电脑，一般用户请使用非 x86 版。
+\* 自由浏览 x86 版主要用于一些使用 Intel 处理器的平板电脑，一般用户请使用非 x86 版。
 
 ### 使用自由浏览访问GreatFire翻墙中心
 
