@@ -1,7 +1,10 @@
 <a name="a" href="https://github.com/greatfire/x/raw/master/freebrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/1511844796.gif?raw=true"></a>
 
-[立即下载自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) 即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。
+[立即下载自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk) 即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。
 
+<a name="a" href="https://github.com/greatfire/x/raw/master/freebooks.apk"><img src="https://github.com/gfsupport/test/raw/GreatFire%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B5%8F%E8%A7%88%EF%BC%8C%E8%87%AA%E7%94%B1%E6%9C%89%E5%A3%B0/fbs_gif.gif"></a>
+
+[立即下载自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk) 随时随地阅读中国的禁书，尽在自由有声。
 ### 重要提示：自由浏览2.0.4发布(2017/10/27更新)，如果您在旧版本无法自动升级，请手动下载新版安装包进行升级。
 #### 小米手机用户由于系统bug请暂时不要下载使用。
 
