@@ -1,1 +1,2 @@
 <img src="https://bitbucket.org/greatfire/test/raw/9369469cb73d6dc0e81661d5cff5dd2a82e8c830/qr.png">text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+<img src="https://bitbucket.org/greatfire/test/raw/d4770d0d955a613efa25e50d6712dee520912fce/s.png">
