@@ -1,4 +1,4 @@
-# 自由浏览 3.2.5
+# 下载自由浏览 3.2.5
 
 <img align="left" src="https://bitbucket.org/greatfire/test/raw/1e1f5b03ba3ad610875939a9f587bdda4cc7f371/qr.png">
 
