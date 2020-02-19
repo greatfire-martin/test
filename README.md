@@ -1,1 +1,1 @@
-Test
+<img src="https://bitbucket.org/greatfire/test/raw/9369469cb73d6dc0e81661d5cff5dd2a82e8c830/qr.png">text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
