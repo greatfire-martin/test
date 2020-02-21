@@ -6,7 +6,7 @@
 - 即开即用
 - 又快速又稳定
 - support@greatfire.org
-- <a href="test/blob/%E8%87%AA%E7%94%B1%E6%B5%8F%E8%A7%88-3.2.5/README.md#faq">常見問答</a>
+- <a href="README.md#faq">常見問答</a>
 
 今天热门新闻：震撼！武汉公安穿防护衣带枪上膛、枪声大作、遍地尸骸 (视频)
 
