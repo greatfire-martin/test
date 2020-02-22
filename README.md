@@ -9,6 +9,7 @@
 
 今天热门新闻：震撼！武汉公安穿防护衣带枪上膛、枪声大作、遍地尸骸 (视频)
 
+[![Analytics](https://ga-beacon.appspot.com/UA-26222920-39/wiki)](https://github.com/igrigorik/ga-beacon)
 
 ## 如何下载安装？
 <a name="faq"></a>
@@ -42,5 +43,3 @@
 * [苹果审查](https://applecensorship.com) - 查阅 App Store（苹果应用商店）的审查状况。
 
 ![greatfire-logo](https://github.com/greatfire/x/raw/master/greatfire-logo.png)
-
-[![Analytics](https://ga-beacon.appspot.com/UA-26222920-39/wiki)](https://github.com/igrigorik/ga-beacon)
